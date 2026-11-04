@@ -1,0 +1,4 @@
+Model,Best params,CV ROC-AUC,CV F1,CV Recall,CV Precision
+KNN,"{'n_neighbors': 41, 'p': 1, 'weights': 'uniform'}",0.8368035243410972,0.6020589279018612,0.5752508361204014,0.6321296648055482
+Logistic Regression,"{'C': 100, 'class_weight': None}",0.8463890298955891,0.5973782660853237,0.5498327759197325,0.6551985661445764
+Random Forest,"{'n_estimators': 500, 'min_samples_leaf': 5, 'max_features': 'log2', 'max_depth': 8, 'class_weight': 'balanced'}",0.8473697654400676,0.6299950059459178,0.7832775919732442,0.5270529119297709

@@ -1,0 +1,11 @@
+{
+  "model": "Random Forest",
+  "threshold": 0.5450210033046776,
+  "params": {
+    "n_estimators": 500,
+    "min_samples_leaf": 5,
+    "max_features": "log2",
+    "max_depth": 8,
+    "class_weight": "balanced"
+  }
+}
